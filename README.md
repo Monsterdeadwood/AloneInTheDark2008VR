@@ -14,7 +14,7 @@
 
 An experimental VR branch for the 2008 PC version of Alone in the Dark, focused on tracked held items, inventory access and the game’s original throw behavior.
 
-**Current documented branch: R22 / Meta 2048 preview.**
+**Package baseline on this page: R22 / Meta 2048 preview.**
 
 ## Installation
 
@@ -45,6 +45,11 @@ Current test-package availability is coordinated in Discord. Use the complete pa
 The complete package control sheet takes precedence for its version and interaction profile.
 
 </details>
+
+## Features in newer test builds
+
+- **Hands stop at the wall.** In R24, both empty hands were tested against the wall surface in XR Sim and Tape. The check covered stopping the hand along the surface normal.
+- **Carry an original chair.** R24 exercised taking, walking with and releasing one stock chair. In that test its physics parts separated after release. Re-gripping the intact chair and physical-headset testing remain open.
 
 ## Current status
 

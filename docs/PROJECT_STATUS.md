@@ -8,6 +8,15 @@ Reviewed **14 November 2026**. Documented branch: **R22 / Meta 2048 preview**.
 
 - Item grips, held-bottle wall contact and original throw routing were checked in the actual game with XR Sim/Tape.
 
+## Follow-up tests reviewed 16 November 2026
+
+R24 exercised both empty hands at a wall, native held items, rope and firing in XR Sim/Tape, and carried and released one stock chair. The chair separated into physics parts after release. Physical Meta testing and intact re-grip remain open.
+
+Verification records used for this section
+
+- `AITD2008_META_2048_R24_20261115/README.txt`
+- `AITD2008_META_2048_R24_20261115/docs/VERIFICATION.json`
+
 ## Current limits
 
 - Physical Meta acceptance and a 72 FPS target are not established.
