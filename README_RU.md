@@ -2,7 +2,9 @@
 > **[ТЕСТИРОВАНИЕ И ОБСУЖДЕНИЕ · FLAT2VR DISCORD](https://discord.gg/P4q9zt7ek)**
 > Тестирование, запрос сборок, отзывы и обсуждение проходят в **Flat2VR Modding Discord**. Перейди на сервер и найди тему **Alone in the Dark 2008 VR**.
 
-![Alone in the Dark 2008 VR — Monsterdeadwood VR mods](assets/vr-banner.svg)
+<p align="center">
+  <img src="assets/vr-banner.png" alt="Alone in the Dark 2008 VR — VR" width="460">
+</p>
 
 # Alone in the Dark 2008 VR
 
