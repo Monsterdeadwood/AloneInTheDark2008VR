@@ -1,4 +1,4 @@
-# Alone in the Dark 2008 VR — project status
+# Alone in the Dark (2008) VR — project status
 
 [← Project page](../README.md) · [Flat2VR testing & discussion](https://discord.gg/P4q9zt7ek)
 

@@ -1,5 +1,5 @@
 name: VR feedback
-description: Report a reproducible issue with Alone in the Dark 2008 VR
+description: "Report a reproducible issue with Alone in the Dark (2008) VR"
 title: "[VR] "
 body:
   - type: markdown
