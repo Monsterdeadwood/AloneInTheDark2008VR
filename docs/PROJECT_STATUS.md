@@ -34,10 +34,3 @@ This overview was reconciled against the project’s recorded package notes and 
 - `R22 docs/VERIFICATION.json`
 
 Game execution, simulator validation and physical-headset feedback are reported separately above. Features from a separate experimental branch are identified explicitly.
-
-## Кратко по-русски
-
-Экспериментальная VR-ветка PC-версии Alone in the Dark 2008: удерживаемые предметы от контроллеров, инвентарь и штатное поведение броска.
-
-- Принятие в физическом Meta-шлеме и целевые 72 FPS пока не подтверждены.
-- Двуручные хваты, контакт пустой руки, вращение у стены, толкание и вибрация требуют дальнейшей проверки.
