@@ -1,9 +1,9 @@
 > [!IMPORTANT]
-> **💬 TEST BUILDS & DISCUSSION**
+> **💬 DOWNLOAD & DISCUSSION**
 >
 > **[Join the Flat2VR Discord](https://discord.gg/P4q9zt7ek)** · **[Open the Alone in the Dark (2008) thread](https://discord.com/channels/747967102895390741/1566374215102496918)**
 >
-> Download the latest test build from the thread and share your results there.
+> Get the mod and share feedback in the game’s Flat2VR thread.
 
 <p align="center">
   <img src="assets/vr-banner.png" alt="Alone in the Dark (2008) VR" width="460">
@@ -13,27 +13,21 @@
 
 ## 📦 INSTALLATION
 
-1. Install the supported **Alone in the Dark (2008)** PC build and get the **C280 OpenXR** test package.
-2. Extract the full mod folder and connect your Quest via Link or Air Link.
-3. Run **`RUN.bat`** inside the mod folder. The C280 preview runs for up to five minutes per session.
+1. Install **Alone in the Dark (2008)** on PC.
+2. Extract the complete mod folder and connect your Quest via Link or Air Link.
+3. Run **`RUN.bat`** inside the mod folder. A preview session lasts up to five minutes.
 
 <a name="features"></a>
 
 ## ⚡ FEATURES
 
-### HOLD THE GAME’S ORIGINAL TOOLS
+### HOLD THE TOOLS YOU FIND
 
-C280 tracks your pistol hand and fires from the muzzle. Other interaction tests used the same tracked grip for a flashlight, lighter, spray can and bottle.
+Point a flashlight, hold a lighter or spray can, or aim your pistol with your tracked hand.
 
-### THE WALL STOPS WHAT YOU HOLD
+### HANDS AND OBJECTS STOP AT WALLS
 
-A held bottle blocks against a tested wall and moves again when you pull it away. R24 tested wall contact for empty hands too.
-
-### PICK UP A CHAIR
-
-An R24 prototype let you carry a stock chair and release it back into the game’s physics.
-
-Object interactions were tested with XR Sim and XR Tape. The chair and empty-hand wall checks are separate R24 prototypes.
+Reach up to a wall with your hand or a held bottle. It stops at the surface and comes free when you pull back.
 
 <a name="screenshots"></a>
 
@@ -44,7 +38,7 @@ Object interactions were tested with XR Sim and XR Tape. The chair and empty-han
   <a href="assets/gameplay/rope-sequence.jpg"><img src="assets/gameplay/rope-sequence.jpg" alt="Looking along the rope in the burning building" width="48%" align="top"></a>
 </p>
 
-[Tester credits](TESTERS.md) · [Build details](docs/PROJECT_STATUS.md)
+[Tester credits](TESTERS.md)
 
 <a name="other-vr-mods"></a>
 
@@ -54,11 +48,11 @@ Object interactions were tested with XR Sim and XR Tape. The chair and empty-han
 | --- | --- |
 | [Battlefield 3: VRevamp](https://github.com/Monsterdeadwood/Battlefield-3-VRevamp) | Body holsters, two-handed aiming, and changing campaign skies |
 | [Burnout Paradise Remastered VR](https://github.com/Monsterdeadwood/BUrnOutPvr) | Head-tracked driving with stereo boost and exhaust effects |
-| [Crysis 2: VRevamp](https://github.com/Monsterdeadwood/C2VR) | Physical melee, object grabbing, and a rooftop weapon range |
+| [Crysis 2: VRevamp](https://github.com/Monsterdeadwood/C2VR) | Telekinesis, switchable weapon hands, and randomized weather and time of day |
 | [NOVA · CS:GO Legacy VR](https://github.com/Monsterdeadwood/CSGOVR) | Controller aiming and working optics in local bot matches |
 | [Metro 2033 VR](https://github.com/Monsterdeadwood/Metro2033VR) | Telekinesis, hand lightning, and object physics |
 | [Rainbow Six Siege VR](https://github.com/Monsterdeadwood/SiegeVR) | Tracked weapons and two-handed foregrip handling |
-| [Star Wars: The Force Unleashed II VR](https://github.com/Monsterdeadwood/TFU2VR) | Two tracked lightsabers and independent Force grip |
+| [Star Wars: The Force Unleashed II VR](https://github.com/Monsterdeadwood/TFU2VR) | Independent sabers, limb cuts, Force powers, and crate flight |
 | [TimeShift VR](https://github.com/Monsterdeadwood/TimeShiftVR) | Randomized weather, day and night, and roomscale crouching |
 | [Titanfall 1 VR](https://github.com/Monsterdeadwood/Titanfall1VR) | Aim with the controller and look around a Titan cockpit |
 | [You Are Empty: Absolute Edition VR](https://github.com/Monsterdeadwood/YouAreEmptyAEVR) | Tracked weapons and melee with either hand |
