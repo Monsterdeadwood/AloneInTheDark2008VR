@@ -14,8 +14,8 @@
 ## 📦 INSTALLATION
 
 1. Install **Alone in the Dark (2008)** on PC.
-2. Extract the complete mod folder and connect your Quest via Link or Air Link.
-3. Run **`RUN.bat`** inside the mod folder. A preview session lasts up to five minutes.
+2. **Put the mod archive next to the game’s `.exe`.** Extract the complete archive there and keep the mod folder intact.
+3. Connect your Quest via Link or Air Link and run **`RUN.bat`** from the extracted mod folder. A preview session lasts up to five minutes.
 
 <a name="features"></a>
 
