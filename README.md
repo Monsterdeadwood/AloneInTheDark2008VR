@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> **TEST BUILDS & DISCUSSION**
+> **💬 TEST BUILDS & DISCUSSION**
 >
 > **[Join the Flat2VR Discord](https://discord.gg/P4q9zt7ek)** · **[Open the Alone in the Dark (2008) thread](https://discord.com/channels/747967102895390741/1566374215102496918)**
 >
@@ -9,13 +9,17 @@
   <img src="assets/vr-banner.png" alt="Alone in the Dark (2008) VR" width="460">
 </p>
 
-## INSTALLATION
+<a name="installation"></a>
+
+## 📦 INSTALLATION
 
 1. Install the supported **Alone in the Dark (2008)** PC build and get the **C280 OpenXR** test package.
 2. Extract the full mod folder and connect your Quest via Link or Air Link.
 3. Run **`RUN.bat`** inside the mod folder. The C280 preview runs for up to five minutes per session.
 
-## FEATURES
+<a name="features"></a>
+
+## ⚡ FEATURES
 
 ### HOLD THE GAME’S ORIGINAL TOOLS
 
@@ -31,4 +35,28 @@ An R24 prototype let you carry a stock chair and release it back into the game�
 
 Object interactions were tested with XR Sim and XR Tape. The chair and empty-hand wall checks are separate R24 prototypes.
 
-[Other VR mods](PORTFOLIO.md) · [Tester credits](TESTERS.md) · [Build details](docs/PROJECT_STATUS.md)
+<a name="screenshots"></a>
+
+## 📸 In-game screenshots
+
+<p align="center">
+  <a href="assets/gameplay/hold-bottle-in-firelight.jpg"><img src="assets/gameplay/hold-bottle-in-firelight.jpg" alt="Holding a bottle over the flames" width="48%" align="top"></a>
+  <a href="assets/gameplay/rope-sequence.jpg"><img src="assets/gameplay/rope-sequence.jpg" alt="Looking along the rope in the burning building" width="48%" align="top"></a>
+</p>
+
+[Tester credits](TESTERS.md) · [Build details](docs/PROJECT_STATUS.md)
+
+<a name="other-vr-mods"></a>
+
+## 🎮 Other VR mods
+
+- [Battlefield 3: VRevamp](https://github.com/Monsterdeadwood/Battlefield-3-VRevamp)
+- [Burnout Paradise Remastered VR](https://github.com/Monsterdeadwood/BUrnOutPvr)
+- [Crysis 2: VRevamp](https://github.com/Monsterdeadwood/C2VR)
+- [NOVA · CS:GO Legacy VR](https://github.com/Monsterdeadwood/CSGOVR)
+- [Metro 2033 VR](https://github.com/Monsterdeadwood/Metro2033VR)
+- [Rainbow Six Siege VR](https://github.com/Monsterdeadwood/SiegeVR)
+- [Star Wars: The Force Unleashed II VR](https://github.com/Monsterdeadwood/TFU2VR)
+- [TimeShift VR](https://github.com/Monsterdeadwood/TimeShiftVR)
+- [Titanfall 1 VR](https://github.com/Monsterdeadwood/Titanfall1VR)
+- [You Are Empty: Absolute Edition VR](https://github.com/Monsterdeadwood/YouAreEmptyAEVR)
